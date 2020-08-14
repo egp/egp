@@ -1,4 +1,4 @@
-### Hi there 👋
+### Retired Scala developer 😄
 
 <!--
 **egp/egp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
